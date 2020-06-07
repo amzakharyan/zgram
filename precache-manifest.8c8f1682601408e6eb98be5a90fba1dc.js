@@ -4,7 +4,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/zgram/ff7f9389c1c15f20347b.worker.js"
   },
   {
-    "revision": "994b3a71181690d37d24f8feefb479b7",
+    "revision": "d74a14dde7af96ab9469381b782063f3",
     "url": "/zgram/index.html"
   },
   {
@@ -24,7 +24,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/zgram/static/css/8.3015292a.chunk.css"
   },
   {
-    "revision": "82faccc6f51afb7fbbae",
+    "revision": "d89e75fd5932d907bc48",
     "url": "/zgram/static/css/main.55d83219.chunk.css"
   },
   {
@@ -56,8 +56,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/zgram/static/js/8.1fa99ab3.chunk.js"
   },
   {
-    "revision": "82faccc6f51afb7fbbae",
-    "url": "/zgram/static/js/main.e154ae41.chunk.js"
+    "revision": "d89e75fd5932d907bc48",
+    "url": "/zgram/static/js/main.fa42da70.chunk.js"
   },
   {
     "revision": "3541dcb04b90391c43fd",
